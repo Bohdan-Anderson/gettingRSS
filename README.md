@@ -1,0 +1,6 @@
+gettingRSS
+==========
+
+To get my fix once google reader goes away...
+
+To use this make sure you get requests, it's an easy way to do get's off the interent...
